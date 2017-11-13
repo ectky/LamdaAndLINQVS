@@ -1,0 +1,6 @@
+D:\VSProjects\LambdaAndLINQ\PopulationCounter\bin\Debug\PopulationCounter.exe.config
+D:\VSProjects\LambdaAndLINQ\PopulationCounter\bin\Debug\PopulationCounter.exe
+D:\VSProjects\LambdaAndLINQ\PopulationCounter\bin\Debug\PopulationCounter.pdb
+D:\VSProjects\LambdaAndLINQ\PopulationCounter\obj\Debug\PopulationCounter.csprojResolveAssemblyReference.cache
+D:\VSProjects\LambdaAndLINQ\PopulationCounter\obj\Debug\PopulationCounter.exe
+D:\VSProjects\LambdaAndLINQ\PopulationCounter\obj\Debug\PopulationCounter.pdb

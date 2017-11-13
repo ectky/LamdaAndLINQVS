@@ -1,0 +1,6 @@
+D:\VSProjects\LambdaAndLINQ\ShoppingSpree\bin\Debug\ShoppingSpree.exe.config
+D:\VSProjects\LambdaAndLINQ\ShoppingSpree\bin\Debug\ShoppingSpree.exe
+D:\VSProjects\LambdaAndLINQ\ShoppingSpree\bin\Debug\ShoppingSpree.pdb
+D:\VSProjects\LambdaAndLINQ\ShoppingSpree\obj\Debug\ShoppingSpree.csprojResolveAssemblyReference.cache
+D:\VSProjects\LambdaAndLINQ\ShoppingSpree\obj\Debug\ShoppingSpree.exe
+D:\VSProjects\LambdaAndLINQ\ShoppingSpree\obj\Debug\ShoppingSpree.pdb

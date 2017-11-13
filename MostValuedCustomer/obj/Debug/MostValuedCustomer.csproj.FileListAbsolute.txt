@@ -1,0 +1,6 @@
+D:\VSProjects\LambdaAndLINQ\MostValuedCustomer\bin\Debug\MostValuedCustomer.exe.config
+D:\VSProjects\LambdaAndLINQ\MostValuedCustomer\bin\Debug\MostValuedCustomer.exe
+D:\VSProjects\LambdaAndLINQ\MostValuedCustomer\bin\Debug\MostValuedCustomer.pdb
+D:\VSProjects\LambdaAndLINQ\MostValuedCustomer\obj\Debug\MostValuedCustomer.csprojResolveAssemblyReference.cache
+D:\VSProjects\LambdaAndLINQ\MostValuedCustomer\obj\Debug\MostValuedCustomer.exe
+D:\VSProjects\LambdaAndLINQ\MostValuedCustomer\obj\Debug\MostValuedCustomer.pdb

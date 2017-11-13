@@ -1,0 +1,5 @@
+D:\VSProjects\LambdaAndLINQ\PhonebookUpgrade\bin\Debug\PhonebookUpgrade.exe.config
+D:\VSProjects\LambdaAndLINQ\PhonebookUpgrade\bin\Debug\PhonebookUpgrade.exe
+D:\VSProjects\LambdaAndLINQ\PhonebookUpgrade\bin\Debug\PhonebookUpgrade.pdb
+D:\VSProjects\LambdaAndLINQ\PhonebookUpgrade\obj\Debug\PhonebookUpgrade.exe
+D:\VSProjects\LambdaAndLINQ\PhonebookUpgrade\obj\Debug\PhonebookUpgrade.pdb

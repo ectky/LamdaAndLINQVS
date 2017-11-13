@@ -1,0 +1,6 @@
+D:\VSProjects\LambdaAndLINQ\Phonebook\bin\Debug\Phonebook.exe.config
+D:\VSProjects\LambdaAndLINQ\Phonebook\bin\Debug\Phonebook.exe
+D:\VSProjects\LambdaAndLINQ\Phonebook\bin\Debug\Phonebook.pdb
+D:\VSProjects\LambdaAndLINQ\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+D:\VSProjects\LambdaAndLINQ\Phonebook\obj\Debug\Phonebook.exe
+D:\VSProjects\LambdaAndLINQ\Phonebook\obj\Debug\Phonebook.pdb

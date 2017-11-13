@@ -1,0 +1,6 @@
+c:\users\elica\documents\visual studio 2017\Projects\LambdaAndLINQ\MinMaxSumAverage\bin\Debug\MinMaxSumAverage.exe.config
+c:\users\elica\documents\visual studio 2017\Projects\LambdaAndLINQ\MinMaxSumAverage\bin\Debug\MinMaxSumAverage.exe
+c:\users\elica\documents\visual studio 2017\Projects\LambdaAndLINQ\MinMaxSumAverage\bin\Debug\MinMaxSumAverage.pdb
+c:\users\elica\documents\visual studio 2017\Projects\LambdaAndLINQ\MinMaxSumAverage\obj\Debug\MinMaxSumAverage.csprojResolveAssemblyReference.cache
+c:\users\elica\documents\visual studio 2017\Projects\LambdaAndLINQ\MinMaxSumAverage\obj\Debug\MinMaxSumAverage.exe
+c:\users\elica\documents\visual studio 2017\Projects\LambdaAndLINQ\MinMaxSumAverage\obj\Debug\MinMaxSumAverage.pdb
