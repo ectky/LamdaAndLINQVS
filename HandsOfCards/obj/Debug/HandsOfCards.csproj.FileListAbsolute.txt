@@ -1,0 +1,6 @@
+D:\VSProjects\LambdaAndLINQ\HandsOfCards\bin\Debug\HandsOfCards.exe.config
+D:\VSProjects\LambdaAndLINQ\HandsOfCards\bin\Debug\HandsOfCards.exe
+D:\VSProjects\LambdaAndLINQ\HandsOfCards\bin\Debug\HandsOfCards.pdb
+D:\VSProjects\LambdaAndLINQ\HandsOfCards\obj\Debug\HandsOfCards.csprojResolveAssemblyReference.cache
+D:\VSProjects\LambdaAndLINQ\HandsOfCards\obj\Debug\HandsOfCards.exe
+D:\VSProjects\LambdaAndLINQ\HandsOfCards\obj\Debug\HandsOfCards.pdb

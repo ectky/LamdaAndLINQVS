@@ -1,0 +1,6 @@
+D:\VSProjects\LambdaAndLINQ\LegendaryFarming\bin\Debug\LegendaryFarming.exe.config
+D:\VSProjects\LambdaAndLINQ\LegendaryFarming\bin\Debug\LegendaryFarming.exe
+D:\VSProjects\LambdaAndLINQ\LegendaryFarming\bin\Debug\LegendaryFarming.pdb
+D:\VSProjects\LambdaAndLINQ\LegendaryFarming\obj\Debug\LegendaryFarming.csprojResolveAssemblyReference.cache
+D:\VSProjects\LambdaAndLINQ\LegendaryFarming\obj\Debug\LegendaryFarming.exe
+D:\VSProjects\LambdaAndLINQ\LegendaryFarming\obj\Debug\LegendaryFarming.pdb

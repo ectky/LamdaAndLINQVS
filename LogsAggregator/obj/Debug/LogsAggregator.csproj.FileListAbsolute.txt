@@ -1,0 +1,6 @@
+D:\VSProjects\LambdaAndLINQ\LogsAggregator\bin\Debug\LogsAggregator.exe.config
+D:\VSProjects\LambdaAndLINQ\LogsAggregator\bin\Debug\LogsAggregator.exe
+D:\VSProjects\LambdaAndLINQ\LogsAggregator\bin\Debug\LogsAggregator.pdb
+D:\VSProjects\LambdaAndLINQ\LogsAggregator\obj\Debug\LogsAggregator.csprojResolveAssemblyReference.cache
+D:\VSProjects\LambdaAndLINQ\LogsAggregator\obj\Debug\LogsAggregator.exe
+D:\VSProjects\LambdaAndLINQ\LogsAggregator\obj\Debug\LogsAggregator.pdb

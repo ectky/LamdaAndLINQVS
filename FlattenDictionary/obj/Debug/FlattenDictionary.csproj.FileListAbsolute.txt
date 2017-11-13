@@ -1,0 +1,6 @@
+D:\VSProjects\LambdaAndLINQ\FlattenDictionary\bin\Debug\FlattenDictionary.exe.config
+D:\VSProjects\LambdaAndLINQ\FlattenDictionary\bin\Debug\FlattenDictionary.exe
+D:\VSProjects\LambdaAndLINQ\FlattenDictionary\bin\Debug\FlattenDictionary.pdb
+D:\VSProjects\LambdaAndLINQ\FlattenDictionary\obj\Debug\FlattenDictionary.exe
+D:\VSProjects\LambdaAndLINQ\FlattenDictionary\obj\Debug\FlattenDictionary.pdb
+D:\VSProjects\LambdaAndLINQ\FlattenDictionary\obj\Debug\FlattenDictionary.csprojResolveAssemblyReference.cache

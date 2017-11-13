@@ -1,0 +1,5 @@
+D:\VSProjects\LambdaAndLINQ\FixEmails\bin\Debug\FixEmails.exe.config
+D:\VSProjects\LambdaAndLINQ\FixEmails\bin\Debug\FixEmails.exe
+D:\VSProjects\LambdaAndLINQ\FixEmails\bin\Debug\FixEmails.pdb
+D:\VSProjects\LambdaAndLINQ\FixEmails\obj\Debug\FixEmails.exe
+D:\VSProjects\LambdaAndLINQ\FixEmails\obj\Debug\FixEmails.pdb

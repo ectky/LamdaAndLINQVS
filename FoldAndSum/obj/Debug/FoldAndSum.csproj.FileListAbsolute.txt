@@ -1,0 +1,6 @@
+c:\users\elica\documents\visual studio 2017\Projects\LambdaAndLINQ\FoldAndSum\bin\Debug\FoldAndSum.exe.config
+c:\users\elica\documents\visual studio 2017\Projects\LambdaAndLINQ\FoldAndSum\bin\Debug\FoldAndSum.exe
+c:\users\elica\documents\visual studio 2017\Projects\LambdaAndLINQ\FoldAndSum\bin\Debug\FoldAndSum.pdb
+c:\users\elica\documents\visual studio 2017\Projects\LambdaAndLINQ\FoldAndSum\obj\Debug\FoldAndSum.csprojResolveAssemblyReference.cache
+c:\users\elica\documents\visual studio 2017\Projects\LambdaAndLINQ\FoldAndSum\obj\Debug\FoldAndSum.exe
+c:\users\elica\documents\visual studio 2017\Projects\LambdaAndLINQ\FoldAndSum\obj\Debug\FoldAndSum.pdb

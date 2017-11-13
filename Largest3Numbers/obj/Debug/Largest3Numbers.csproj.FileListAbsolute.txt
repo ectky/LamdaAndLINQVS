@@ -1,0 +1,5 @@
+c:\users\elica\documents\visual studio 2017\Projects\LambdaAndLINQ\Largest3Numbers\bin\Debug\Largest3Numbers.exe.config
+c:\users\elica\documents\visual studio 2017\Projects\LambdaAndLINQ\Largest3Numbers\bin\Debug\Largest3Numbers.exe
+c:\users\elica\documents\visual studio 2017\Projects\LambdaAndLINQ\Largest3Numbers\bin\Debug\Largest3Numbers.pdb
+c:\users\elica\documents\visual studio 2017\Projects\LambdaAndLINQ\Largest3Numbers\obj\Debug\Largest3Numbers.exe
+c:\users\elica\documents\visual studio 2017\Projects\LambdaAndLINQ\Largest3Numbers\obj\Debug\Largest3Numbers.pdb
