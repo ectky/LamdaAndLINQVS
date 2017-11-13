@@ -1,0 +1,6 @@
+D:\VSProjects\LambdaAndLINQ\Camping\bin\Debug\Camping.exe.config
+D:\VSProjects\LambdaAndLINQ\Camping\bin\Debug\Camping.exe
+D:\VSProjects\LambdaAndLINQ\Camping\bin\Debug\Camping.pdb
+D:\VSProjects\LambdaAndLINQ\Camping\obj\Debug\Camping.csprojResolveAssemblyReference.cache
+D:\VSProjects\LambdaAndLINQ\Camping\obj\Debug\Camping.exe
+D:\VSProjects\LambdaAndLINQ\Camping\obj\Debug\Camping.pdb

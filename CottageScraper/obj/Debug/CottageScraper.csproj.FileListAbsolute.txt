@@ -1,0 +1,6 @@
+D:\VSProjects\LambdaAndLINQ\CottageScraper\bin\Debug\CottageScraper.exe.config
+D:\VSProjects\LambdaAndLINQ\CottageScraper\bin\Debug\CottageScraper.exe
+D:\VSProjects\LambdaAndLINQ\CottageScraper\bin\Debug\CottageScraper.pdb
+D:\VSProjects\LambdaAndLINQ\CottageScraper\obj\Debug\CottageScraper.csprojResolveAssemblyReference.cache
+D:\VSProjects\LambdaAndLINQ\CottageScraper\obj\Debug\CottageScraper.exe
+D:\VSProjects\LambdaAndLINQ\CottageScraper\obj\Debug\CottageScraper.pdb

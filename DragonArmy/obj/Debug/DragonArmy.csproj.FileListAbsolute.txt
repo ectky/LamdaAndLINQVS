@@ -1,0 +1,6 @@
+D:\VSProjects\LambdaAndLINQ\DragonArmy\bin\Debug\DragonArmy.exe.config
+D:\VSProjects\LambdaAndLINQ\DragonArmy\bin\Debug\DragonArmy.exe
+D:\VSProjects\LambdaAndLINQ\DragonArmy\bin\Debug\DragonArmy.pdb
+D:\VSProjects\LambdaAndLINQ\DragonArmy\obj\Debug\DragonArmy.csprojResolveAssemblyReference.cache
+D:\VSProjects\LambdaAndLINQ\DragonArmy\obj\Debug\DragonArmy.exe
+D:\VSProjects\LambdaAndLINQ\DragonArmy\obj\Debug\DragonArmy.pdb

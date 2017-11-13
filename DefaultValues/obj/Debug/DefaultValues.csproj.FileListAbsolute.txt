@@ -1,0 +1,6 @@
+D:\VSProjects\LambdaAndLINQ\DefaultValues\bin\Debug\DefaultValues.exe.config
+D:\VSProjects\LambdaAndLINQ\DefaultValues\bin\Debug\DefaultValues.exe
+D:\VSProjects\LambdaAndLINQ\DefaultValues\bin\Debug\DefaultValues.pdb
+D:\VSProjects\LambdaAndLINQ\DefaultValues\obj\Debug\DefaultValues.csprojResolveAssemblyReference.cache
+D:\VSProjects\LambdaAndLINQ\DefaultValues\obj\Debug\DefaultValues.exe
+D:\VSProjects\LambdaAndLINQ\DefaultValues\obj\Debug\DefaultValues.pdb

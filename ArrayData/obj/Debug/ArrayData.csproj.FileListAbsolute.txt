@@ -1,0 +1,6 @@
+D:\VSProjects\LambdaAndLINQ\ArrayData\bin\Debug\ArrayData.exe.config
+D:\VSProjects\LambdaAndLINQ\ArrayData\bin\Debug\ArrayData.exe
+D:\VSProjects\LambdaAndLINQ\ArrayData\bin\Debug\ArrayData.pdb
+D:\VSProjects\LambdaAndLINQ\ArrayData\obj\Debug\ArrayData.csprojResolveAssemblyReference.cache
+D:\VSProjects\LambdaAndLINQ\ArrayData\obj\Debug\ArrayData.exe
+D:\VSProjects\LambdaAndLINQ\ArrayData\obj\Debug\ArrayData.pdb
