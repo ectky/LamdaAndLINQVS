@@ -1,0 +1,5 @@
+c:\users\elica\documents\visual studio 2017\Projects\LambdaAndLINQ\ShortWordsSorted\bin\Debug\ShortWordsSorted.exe.config
+c:\users\elica\documents\visual studio 2017\Projects\LambdaAndLINQ\ShortWordsSorted\bin\Debug\ShortWordsSorted.exe
+c:\users\elica\documents\visual studio 2017\Projects\LambdaAndLINQ\ShortWordsSorted\bin\Debug\ShortWordsSorted.pdb
+c:\users\elica\documents\visual studio 2017\Projects\LambdaAndLINQ\ShortWordsSorted\obj\Debug\ShortWordsSorted.exe
+c:\users\elica\documents\visual studio 2017\Projects\LambdaAndLINQ\ShortWordsSorted\obj\Debug\ShortWordsSorted.pdb

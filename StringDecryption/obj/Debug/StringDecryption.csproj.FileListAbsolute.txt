@@ -1,0 +1,5 @@
+D:\VSProjects\LambdaAndLINQ\StringDecryption\bin\Debug\StringDecryption.exe.config
+D:\VSProjects\LambdaAndLINQ\StringDecryption\bin\Debug\StringDecryption.exe
+D:\VSProjects\LambdaAndLINQ\StringDecryption\bin\Debug\StringDecryption.pdb
+D:\VSProjects\LambdaAndLINQ\StringDecryption\obj\Debug\StringDecryption.exe
+D:\VSProjects\LambdaAndLINQ\StringDecryption\obj\Debug\StringDecryption.pdb

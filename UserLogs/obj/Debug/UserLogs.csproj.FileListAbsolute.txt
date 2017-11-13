@@ -1,0 +1,6 @@
+D:\VSProjects\LambdaAndLINQ\UserLogs\bin\Debug\UserLogs.exe.config
+D:\VSProjects\LambdaAndLINQ\UserLogs\bin\Debug\UserLogs.exe
+D:\VSProjects\LambdaAndLINQ\UserLogs\bin\Debug\UserLogs.pdb
+D:\VSProjects\LambdaAndLINQ\UserLogs\obj\Debug\UserLogs.csprojResolveAssemblyReference.cache
+D:\VSProjects\LambdaAndLINQ\UserLogs\obj\Debug\UserLogs.exe
+D:\VSProjects\LambdaAndLINQ\UserLogs\obj\Debug\UserLogs.pdb

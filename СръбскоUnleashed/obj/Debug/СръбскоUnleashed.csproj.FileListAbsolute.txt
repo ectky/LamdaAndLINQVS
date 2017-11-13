@@ -1,0 +1,6 @@
+D:\VSProjects\LambdaAndLINQ\СръбскоUnleashed\bin\Debug\СръбскоUnleashed.exe.config
+D:\VSProjects\LambdaAndLINQ\СръбскоUnleashed\bin\Debug\СръбскоUnleashed.exe
+D:\VSProjects\LambdaAndLINQ\СръбскоUnleashed\bin\Debug\СръбскоUnleashed.pdb
+D:\VSProjects\LambdaAndLINQ\СръбскоUnleashed\obj\Debug\СръбскоUnleashed.csprojResolveAssemblyReference.cache
+D:\VSProjects\LambdaAndLINQ\СръбскоUnleashed\obj\Debug\СръбскоUnleashed.exe
+D:\VSProjects\LambdaAndLINQ\СръбскоUnleashed\obj\Debug\СръбскоUnleashed.pdb

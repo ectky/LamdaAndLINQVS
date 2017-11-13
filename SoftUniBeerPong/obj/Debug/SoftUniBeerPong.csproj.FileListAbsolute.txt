@@ -1,0 +1,6 @@
+D:\VSProjects\LambdaAndLINQ\SoftUniBeerPong\bin\Debug\SoftUniBeerPong.exe.config
+D:\VSProjects\LambdaAndLINQ\SoftUniBeerPong\bin\Debug\SoftUniBeerPong.exe
+D:\VSProjects\LambdaAndLINQ\SoftUniBeerPong\bin\Debug\SoftUniBeerPong.pdb
+D:\VSProjects\LambdaAndLINQ\SoftUniBeerPong\obj\Debug\SoftUniBeerPong.csprojResolveAssemblyReference.cache
+D:\VSProjects\LambdaAndLINQ\SoftUniBeerPong\obj\Debug\SoftUniBeerPong.exe
+D:\VSProjects\LambdaAndLINQ\SoftUniBeerPong\obj\Debug\SoftUniBeerPong.pdb
